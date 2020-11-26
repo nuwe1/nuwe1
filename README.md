@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Marvin but you can ping me using alias @nuwe1
 
-
-
-I am an active opensource contributor and I am . I also 
-
 <!--
 **nuwe1/nuwe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

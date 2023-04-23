@@ -33,8 +33,19 @@
 **nuwe1/nuwe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Hi there, I'm a Full Stack Developer with expertise in Ruby on Rails and a passion for open source. With several years of experience working on complex web applications, I have developed a strong proficiency in both front-end and back-end development. I'm also an active contributor to GitLab and have won two consecutive hackathons in Q1 and Q2 of 2021.
 
+My technical skillset includes proficiency in Ruby, Rails, JavaScript, React, Redux, HTML/CSS, Git, and SQL databases such as PostgreSQL. I'm always eager to learn and stay up-to-date with the latest technologies and industry trends.
+
+As a developer, I prioritize clean and maintainable code, efficient workflows, and a collaborative team environment. I enjoy working on challenging projects and leveraging my problem-solving skills to build scalable and robust solutions.
+
+I'm currently seeking Ruby on Rails roles where I can contribute my expertise, passion for open source, and desire to continue learning and growing as a developer. Feel free to check out my Github profile to see some of my recent work and contributions.
+
+
+Hi there! I'm a passionate Full Stack Developer with a focus on Ruby on Rails projects. I have extensive experience in contributing to open source, including GitLab, and have won two consecutive hackathons in Q1 and Q2 of 2021. As a GitLab Hero and member of the GitLab Heroes Steering Committee, I help out in recruiting new GitLab Heroes, goal setting and strategy, reviewing applications, and supporting and coaching new Heroes. I am proficient in HTML/CSS, JavaScript, React, Redux, PostgreSQL, Bootstrap, Webpack, Babel, and of course, Ruby on Rails. My ability to lead team retrospective and demo sessions, add new features to the backend and frontend, and configure applications to run on GitLab pipelines makes me a valuable asset to any team. Let's connect and create something amazing!
  
+As a full stack developer with expertise in Ruby on Rails, I have extensive experience developing scalable web applications and contributing to open source projects. I am a GitLab Hero and member of the GitLab Heroes Steering Committee, where I recruit and coach new Heroes, review applications, and set goals and strategies. I have also won consecutive hackathons in Q1 and Q2 of 2021, demonstrating my ability to innovate and deliver results. With a passion for clean, maintainable code and a dedication to continuous learning, I am seeking new opportunities to apply my skills and make a meaningful impact in the Ruby on Rails community.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

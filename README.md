@@ -3,12 +3,16 @@
 I'm Marvin, a Full-stack software developer, an active open-source contributor, community builder, and working remotely, committed to creating insanely great experiences for the end-user.
 
 
-Let me share a little about myself. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. I tried out a few different options before settling on this path, and ultimately chose to major in Software Engineering when I began university.
+### Let me share a little about myself.
 
-During my second year at university, I learned about the Google Summer of Code program, which led me to discover open source software. Since then, I've spent time working with other developers on open source projects and have developed a deep appreciation for the collaborative process.
+My journey in tech has been defined by three major experiences: 
 
-Unfortunately, I lost my job at one point, which left me feeling lost and afraid.
- In search of answers and a new direction, I embarked on a journey of self-discovery that led me to dig deep and rediscover my true passion: **building software that has a positive impact on the end-user.**
+1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed that infact I tried out before settling on this path, and ultimately chose to major in Software Engineering when I began university.
+
+2. During my second year at university, I learned about the Google Summer of Code program, which led me to discover open source software. Since then, I've spent time working with other developers on open source projects and have developed a deep appreciation for the collaborative process.
+
+3. Unfortunately, I lost my job at one point, which left me feeling lost and afraid.
+ In search of answers and a new direction, I embarked on a journey of self-discovery that led me to dig deep and rediscover my true passion: **building software that has a positive impact on the end-user** which has since then become my main focus in life.
 
 To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs.My ultimate goal is to design an unparalleled experience in every application I create, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
 
@@ -18,7 +22,7 @@ To reach my goal, I need your support. With each new project I undertake, my cre
 
 <h3 align="left">Connect with me:</h3>
 
- [Gitlab](https://gitlab.com/nuwe1) | [LinkedIN](https://www.linkedin.com/in/nuwe1/) | [Twitter](https://twitter.com/nuwe1_) | [Meet](calendly.com/nuwe1/) 
+ [Gitlab](https://gitlab.com/nuwe1) | [LinkedIn](https://www.linkedin.com/in/nuwe1/) | [Twitter](https://twitter.com/nuwe1_) | [Meet](calendly.com/nuwe1/) 
 
 
 

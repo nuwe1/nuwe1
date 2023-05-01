@@ -82,27 +82,30 @@ To reach my goal, I need your support. With each new project I undertake, my cre
 
 While I don't blog on a regular basis, you can find some of my writing here:
 
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
+
 
 ## 📈 Stats
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=nuwe1&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=nuwe1&show_icons=true&hide_border=true" alt="Marvin Karegyeya's GitHub Stats">
+| <img src="https://github-readme-stats.vercel.app/api?username=nuwe1&show_icons=true&hide_border=true" alt="Marvin Karegyeya's GitHub Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwe1&layout=compact&theme=buefy&hide_border=true" /> |
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nuwe1.nuwe1" alt="visitors">
 </div>
 
-## 🔗 Contact me
+## 🔍 Where to find me
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nuwe1/)
 [![twitter](https://img.shields.io/badge/twitter-219de9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuwe1_)
-[![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
 [![gitlab](https://img.shields.io/badge/GitLab-5d4b83?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nuwe1)
 
 
 ## 🔗 HowSupport
+[![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
 [![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
 
-
+<!-- <h2> 📈 &nbsp;My GitHub History!</h2>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
+  
 

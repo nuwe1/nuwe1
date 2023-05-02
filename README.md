@@ -162,31 +162,16 @@ While I don't blog on a regular basis, you can find some of my writing here:
 
 
 
-
-
-
-
-
-
-
-
-## Stats
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nuwe1&show_icons=true&hide_border=true" alt="Marvin Karegyeya's GitHub Stats"> |  |
-
-
-##  Where to find me
-
-
-## 🔗 HowSupport
  <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― <b>Aaron Swartz</b></i>
    <br>
-    > You miss 100% of the shots you don't take.
-   <br>
-<br>
-[![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
-<br>
 </p> 
+
+ > You miss 100% of the shots you don't take.
+
+[![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
+
+
+
 

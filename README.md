@@ -128,6 +128,8 @@ While I don't blog on a regular basis, you can find some of my writing here:
   
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nuwe1/)
 [![twitter](https://img.shields.io/badge/twitter-219de9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuwe1_)
+<a target="_blank" href="mailto:marvinelly18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+[![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
 [![gitlab](https://img.shields.io/badge/GitLab-5d4b83?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nuwe1)
@@ -181,20 +183,10 @@ While I don't blog on a regular basis, you can find some of my writing here:
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+    > You miss 100% of the shots you don't take.
    <br>
 <br>
-<a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://public.tableau.com/app/profile/thomas.george.thomas"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+[![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
 <br>
 </p> 
-[![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
-[![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
-
-
-  
 

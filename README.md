@@ -13,16 +13,42 @@
 </div>
 <hr></hr>
 
-## Hello, World! 
-
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，
 
-I'm Marvin,  and community builder, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://www.flaticon.com/free-icons/uganda" width="13"/> <b>Kampala, Uganda</b> . 
+### Let me share a little about myself.
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 31
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
+   def current_location
+     'Burke, VA, USA'
+   end
+   def next_locations
+     ['Lisbon, PT', 'Barcelona, ESP']
+   end
+   def currently
+     {
+       studying: [ 'Network Security' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      }
+   end
+ end
+ ```
+ 
+<br>
+
 
  committed to creating insanely great experiences for the end-user.
 
 
-### Let me share a little about myself.
+
 
 My journey in tech has been defined by three major experiences: 
 

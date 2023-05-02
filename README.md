@@ -45,12 +45,7 @@
 <br>
 
 
- committed to creating insanely great experiences for the end-user.
-
-
-
-
-My journey in tech has been defined by three major experiences: 
+<!-- My journey in tech has been defined by three major experiences: 
 
 1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed that infact I tried out before settling on this path, and ultimately chose to major in Software Engineering when I began university.
 
@@ -60,17 +55,79 @@ My journey in tech has been defined by three major experiences:
  In search of answers and a new direction, I embarked on a journey of self-discovery that led me to dig deep and rediscover my true passion: **building software that has a positive impact on the end-user** which has since then become my main focus in life.
 
 To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs.My ultimate goal is to design an unparalleled experience in every application I create, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
+ -->
+
+<details>
+  <summary><b>🏅 My Achievements</b></summary>
+
+-   📝 Curator for [IMAKEFOSS blog](https://www.imakefoss.org/curators/marvinkaregyeya/) and interviewee
+-   📝 Featured on [GitLab's anniversary websites](https://about.gitlab.com/ten/)
+-   🤝 Joined [GitLab heroes](https://about.gitlab.com/community/heroes/members/)  and [GitLab Heroes Steering committee member](https://gitlab.com/gitlab-com/marketing/community-relations/gitlab-heroes/-/issues/21)
+-   🥇 Winner of [Q1](https://about.gitlab.com/community/hackathon/winners/) and [Q2](https://forum.gitlab.com/t/announcing-q2-2021-gitlab-hackathon-winners/56053) GitLab Hackathons of 2021
+-   🥈  1st Runner up at GitLab Hackathons of 2020
+-   🥉  2nd Runner up at GitLab Hackathons of 2021
+</details>
+
+<details>
+  <summary><b>🛠️ My Skills</b></summary>
+[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![perl](https://img.shields.io/badge/perl-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)](https://www.perl.org/)
+[![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+[![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
+[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+[![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+</details>
+
+<details>
+  <summary><b>My Tools</b></summary>
+  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-a90000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-1b263b?style=for-the-badge&logo=AWS&logoColor=white)
+![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![rspec](https://img.shields.io/badge/Rspec-3776AB?style=for-the-badge&logo=Rspec&logoColor=white)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+</details>
+
+<details>
+  <summary><b>📈 My Stats</b></summary>
+  
+![stats](https://github-readme-stats.vercel.app/api?username=nuwe1&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=nuwe1&no-bg=true&no-frame=true&column=4&theme=algolia)
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=nuwe1&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+![streak](https://github-contributor-stats.vercel.app/api?username=nuwe1&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=nuwe1&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwe1&layout=compact&theme=buefy&&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true)
+</details>
+
+<details>
+  <summary><b>🔍 Where to find me</b></summary>
+  
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nuwe1/)
+[![twitter](https://img.shields.io/badge/twitter-219de9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuwe1_)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
+[![gitlab](https://img.shields.io/badge/GitLab-5d4b83?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nuwe1)
+</details>
 
 
-## 🏅 Achievements
--   📝 **Curator for [IMAKEFOSS blog](https://www.imakefoss.org/curators/marvinkaregyeya/) and interviewee**
--   📝 **Featured on [GitLab's anniversary websites](https://about.gitlab.com/ten/)**
--   🤝 **Joined [GitLab heroes](https://about.gitlab.com/community/heroes/members/)  and [GitLab Heroes Steering committee member](https://gitlab.com/gitlab-com/marketing/community-relations/gitlab-heroes/-/issues/21)**
--   🥇 **Winner of [Q1](https://about.gitlab.com/community/hackathon/winners/) and [Q2](https://forum.gitlab.com/t/announcing-q2-2021-gitlab-hackathon-winners/56053) GitLab Hackathons of 2021**
-<!-- -   🥈 **1st Runner up at Coding Competition** (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019) -->
 
-## 🛠️ Skills
+##  Skills
 ### Languages
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -93,29 +150,9 @@ To me, an application is more than just computer software that performs a specif
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend Frameworks
-![Rails](https://img.shields.io/badge/Rails-a90000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-#d84715?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-019385?style=for-the-badge&logo=flask&logoColor=white)
 
-### Hosting
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-1b263b?style=for-the-badge&logo=AWS&logoColor=white)
 
-### Design Tools
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-### Testing
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![rspec](https://img.shields.io/badge/Rspec-3776AB?style=for-the-badge&logo=Rspec&logoColor=white)
 
-## 🖥️ Workspace Setup
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📝 Top Blog Posts
 -   [Why are back-ticks used in Javascript](https://medium.com/@nuwe1/why-are-back-ticks-used-in-javascript-30a307efe93f)
@@ -125,21 +162,12 @@ While I don't blog on a regular basis, you can find some of my writing here:
 
 
 
-## 📈 Stats
+## Stats
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuwe1&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-| <img src="https://github-readme-stats.vercel.app/api?username=nuwe1&show_icons=true&hide_border=true" alt="Marvin Karegyeya's GitHub Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwe1&layout=compact&theme=buefy&hide_border=true" /> |
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=nuwe1.nuwe1" alt="visitors">
-</div>
+   <img src="https://github-readme-stats.vercel.app/api?username=nuwe1&show_icons=true&hide_border=true" alt="Marvin Karegyeya's GitHub Stats"> |  |
 
-## 🔍 Where to find me
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nuwe1/)
-[![twitter](https://img.shields.io/badge/twitter-219de9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuwe1_)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
-[![gitlab](https://img.shields.io/badge/GitLab-5d4b83?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nuwe1)
+
+##  Where to find me
 
 
 ## 🔗 HowSupport

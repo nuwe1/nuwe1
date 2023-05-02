@@ -1,6 +1,23 @@
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello world" width="70%"/> <br>
+<img src="https://media.giphy.com/media/5QRnThZOV6csvKXdmB/giphy.gif" href="https://github.com/nuwe1" alt="Developer"  width="60%"/><br> 
+  
+<p><strong> Full-stack software developer, Active Open-source contributor
+<br>Community builder & Working remotely.
+ 
+<br><br> Vibing to : 🎧  </strong></p>
+ 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/nuwe1) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=nuwe1&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuwe1&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
+</div>
+<hr></hr>
+
 ## Hello, World! 
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，I'm Marvin, a Full-stack software developer, an active open-source contributor and community builder, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://www.flaticon.com/free-icons/uganda" width="13"/> <b>Kampala, Uganda</b> working remotely. 
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，
+
+I'm Marvin,  and community builder, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://www.flaticon.com/free-icons/uganda" width="13"/> <b>Kampala, Uganda</b> . 
 
  committed to creating insanely great experiences for the end-user.
 
@@ -105,7 +122,6 @@ While I don't blog on a regular basis, you can find some of my writing here:
 [![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
 [![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
 
-<!-- <h2> 📈 &nbsp;My GitHub History!</h2>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
+
   
 

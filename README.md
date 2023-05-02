@@ -11,6 +11,11 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=nuwe1&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuwe1&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
 </div>
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-nuwe1.vercel.app/api" alt="Current Spotify Song">
+</a>
+
 <hr></hr>
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，

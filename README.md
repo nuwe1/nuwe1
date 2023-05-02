@@ -18,19 +18,19 @@
 ### Let me share a little about myself.
 
  ```ruby
- class Sy < Person
+ class Marvin < Person
    def initialize
-     @name = 'Sy Rashid'
-     @age = 31
+     @name = 'Marvin Karegyeya'
+     @sex = male
      @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @education = [ 'Bachelors of Science in Software Engineering' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
    def current_location
-     'Burke, VA, USA'
+     'kampala, Uganda'
    end
    def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
+     ['Washingtonstate, USA', 'Windhoek, Namibia']
    end
    def currently
      {
@@ -61,8 +61,6 @@ My journey in tech has been defined by three major experiences:
 
 To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs.My ultimate goal is to design an unparalleled experience in every application I create, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
 
-
-To reach my goal, I need your support. With each new project I undertake, my creativity grows, bringing me closer to achieving my objectives. You can assist me in attaining my goals by offering me the opportunity to collaborate with you on your projects, or providing any type of assistance. This might involve sharing ideas for projects I can work on, reviewing my work and sharing with me your thoughts, or offering advice on how to improve my skills. All contributions, no matter how big or small, are greatly appreciated
 
 ## 🏅 Achievements
 -   📝 **Curator for [IMAKEFOSS blog](https://www.imakefoss.org/curators/marvinkaregyeya/) and interviewee**

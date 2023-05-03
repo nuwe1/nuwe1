@@ -69,8 +69,8 @@ To me, an application is more than just computer software that performs a specif
 -   📝 Featured on [GitLab's anniversary websites](https://about.gitlab.com/ten/)
 -   🤝 Joined [GitLab heroes](https://about.gitlab.com/community/heroes/members/)  and [GitLab Heroes Steering committee member](https://gitlab.com/gitlab-com/marketing/community-relations/gitlab-heroes/-/issues/21)
 -   🥇 Winner of [Q1](https://about.gitlab.com/community/hackathon/winners/) and [Q2](https://forum.gitlab.com/t/announcing-q2-2021-gitlab-hackathon-winners/56053) GitLab Hackathons of 2021
--   🥈  1st Runner up at GitLab Hackathons of 2020
--   🥉  2nd Runner up at GitLab Hackathons of 2021
+-   🥈  1st Runner up of GitLab Hackathons of 2020
+-   🥉  2nd Runner up of GitLab Hackathons of 2019
 </details>
 
 <details>

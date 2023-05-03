@@ -7,14 +7,10 @@
  
 <br><br> Vibing to : 🎧  </strong></p>
  
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/nuwe1) <br>
+[![Spotify](https://spotify-readme-nuwe1.vercel.app/api?spin=true&scan=true)](https://open.spotify.com/user/ozfcc6cndugn6qlyoxawyr9xa) <br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=nuwe1&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuwe1&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
 </div>
-
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-nuwe1.vercel.app/api" alt="Current Spotify Song">
-</a>
 
 <hr></hr>
 

@@ -19,28 +19,66 @@
 ### Let me share a little about myself.
 
  ```ruby
- class Marvin < Person
-   def initialize
-     @name = 'Marvin Karegyeya'
-     @sex = male
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Bachelors of Science in Software Engineering' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
-   def current_location
-     'kampala, Uganda'
-   end
-   def next_locations
-     ['Washingtonstate, USA', 'Windhoek, Namibia']
-   end
-   def currently
-     {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
-      }
-   end
- end
+ class Person
+  def initialize
+    @behaviors = []
+  end
+
+  def individualization
+    "You are intrigued with the unique qualities of each person. You have a gift for figuring out how different people can work together productively."
+    @behaviors << :individualization
+  end
+
+  def learner
+    "You have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites you."
+    @behaviors << :learner
+  end
+
+  def arranger
+    "You can organize, but you also have a flexibility that complements this ability. You like to determine how all of the pieces and resources can be arranged for maximum productivity."
+    @behaviors << :arranger
+  end
+
+  def responsibility
+    "You take psychological ownership of what you say you will do. You are committed to stable values such as honesty and loyalty."
+    @behaviors << :responsibility
+  end
+
+  def relator
+    "You enjoy close relationships with others. You find deep satisfaction in working hard with friends to achieve a goal."
+    @behaviors << :relator
+  end
+
+  def intellection
+    "You are characterized by your intellectual activity. You are introspective and appreciate intellectual discussions."
+    @behaviors << :intellection
+  end
+
+  def futuristic
+    "You are inspired by the future and what could be. You energize others with your visions of the future."
+    @behaviors << :futuristic
+  end
+
+  def developer
+    "You recognize and cultivate the potential in others. You spot the signs of each small improvement and derive satisfaction from evidence of progress."
+    @behaviors << :developer
+  end
+
+  def discipline
+    "You enjoy routine and structure. Your world is best described by the order you create."
+    @behaviors << :discipline
+  end
+
+  def analytical
+    "You search for reasons and causes. You have the ability to think about all of the factors that might affect a situation."
+    @behaviors << :analytical
+  end
+
+  def behaviors
+    @behaviors
+  end
+end
+
  ```
  
 <br>

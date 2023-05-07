@@ -53,7 +53,7 @@ end
 <br>
 
 <details>
-<summary> <b>My Goals and Ambitions</b></summary>
+<summary> <b>🔭 My Goals and Ambitions</b></summary>
 My journey in tech has been defined by three life experiences: 
 
 1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed in that class that infact I tried out before settling on this path of becoming a software developer, and ultimately chose to major in Software Engineering when I began university.
@@ -83,7 +83,7 @@ To achieve this goal, I am seeking like-minded individuals such as software deve
 </details>
 
 <details>
-  <summary><b>🛠️ My Skills</b></summary>
+  <summary><b>📄 My Skills</b></summary>
   
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)
@@ -113,7 +113,7 @@ To achieve this goal, I am seeking like-minded individuals such as software deve
 </details>
 
 <details>
-  <summary><b>My Tools</b></summary>
+  <summary><b>🛠️ My Tools</b></summary>
   
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)

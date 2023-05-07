@@ -18,6 +18,7 @@
 
 ### Let me share a little about myself.
 
+ > The Ruby class below represents my personal strengths based on a [CliftonStrengths]( https://www.gallup.com/cliftonstrengths/en/home.aspx) test I took. The behaviors listed in this class describe my personal traits and each method provides a brief definition of that behavior. The behaviors are stored in an array that can be accessed through the 'behaviors' method.
  ```ruby
  class PersonalStrengths
   attr_reader :behaviors
@@ -51,18 +52,24 @@ end
  
 <br>
 
+<details>
+<summary> <b>My Goals and Ambitions</b></summary>
+My journey in tech has been defined by three life experiences: 
 
-<!-- My journey in tech has been defined by three major experiences: 
-
-1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed that infact I tried out before settling on this path, and ultimately chose to major in Software Engineering when I began university.
+1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed in that class that infact I tried out before settling on this path of becoming a software developer, and ultimately chose to major in Software Engineering when I began university.
 
 2. During my second year at university, I learned about the Google Summer of Code program, which led me to discover open source software. Since then, I've spent time working with other developers on open source projects and have developed a deep appreciation for the collaborative process.
 
 3. Unfortunately, I lost my job at one point, which left me feeling lost and afraid.
  In search of answers and a new direction, I embarked on a journey of self-discovery that led me to dig deep and rediscover my true passion: **building software that has a positive impact on the end-user** which has since then become my main focus in life.
+ 
+ To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs. **My ultimate goal is to design an unparalleled experience in every application I create**, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. 
+ 
+ As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
+ 
+To achieve this goal, I am seeking like-minded individuals such as software developers, collaborators, entrepreneurs, investors, employers, and people like you who can push me forward on this path. If my message resonates with you, please do not hesitate to send me an <a target="_blank" href="mailto:marvinelly18@gmail.com">email</a> or book a [call](https://calendly.com/nuwe1) with me to discuss how we can work together to create exceptional software experiences. I look forward to hearing from you!
 
-To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs.My ultimate goal is to design an unparalleled experience in every application I create, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
- -->
+</details>
 
 <details>
   <summary><b>🏅 My Achievements</b></summary>
@@ -151,8 +158,6 @@ While I don't blog on a regular basis, you can find some of my writing here:
   
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nuwe1/)
 [![twitter](https://img.shields.io/badge/twitter-219de9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuwe1_)
-<a target="_blank" href="mailto:marvinelly18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-[![calendly](https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/nuwe1)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nuwe1)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/nuwe1)
 [![gitlab](https://img.shields.io/badge/GitLab-5d4b83?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/nuwe1)

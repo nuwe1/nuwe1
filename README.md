@@ -5,9 +5,9 @@
 <p><strong> Full-stack software developer, Active Open-source contributor
 <br>Community builder & Working remotely.
  
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Vibing to : 🎧  </strong></p>https://spotify-readme-vfxs.vercel.app/api
  
-[![Spotify](https://spotify-readme-nuwe1.vercel.app/api?spin=true&scan=true)](https://open.spotify.com/user/ozfcc6cndugn6qlyoxawyr9xa) <br>
+[![Spotify](https://spotify-readme-vfxs.vercel.app/api?spin=true&scan=true)]([https://open.spotify.com/user/ozfcc6cndugn6qlyoxawyr9xa](https://open.spotify.com/user/31eqvf2qhwqbwxjscz2r7i64shn4?si=b5eb170919df4b31)) <br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=nuwe1&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuwe1&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
 </div>

@@ -5,7 +5,7 @@
 <p><strong> Full-stack software developer, Active Open-source contributor
 <br>Community builder & Working remotely.
  
-<br><br> Vibing to : 🎧  </strong></p>https://spotify-readme-vfxs.vercel.app/api
+<br><br> Vibing to : 🎧  </strong></p>
  
 [![Spotify](https://spotify-readme-vfxs.vercel.app/api?spin=true&scan=true)]([https://open.spotify.com/user/ozfcc6cndugn6qlyoxawyr9xa](https://open.spotify.com/user/31eqvf2qhwqbwxjscz2r7i64shn4?si=b5eb170919df4b31)) <br>
 ![Totals Hits](https://komarev.com/ghpvc/?username=nuwe1&style=flat&color=orange&label=PROFILE+VIEWS)

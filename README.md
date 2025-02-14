@@ -53,21 +53,29 @@ end
 <br>
 
 <details>
-<summary> <b>🔭 My Goals and Ambitions</b></summary>
-My journey in tech has been defined by three life experiences: 
+<summary> <b>🔭 My Goals and Ambitions</b></summary> 
 
-1. After completing high school, I found myself with a lot of free time during my vacation, and I was unsure of how to fill it. Initially, I attempted to secure a job, but lacking experience, I was at a loss for what to do next. It wasn't until I stumbled upon a class that taught people how to make money online that I discovered my passion for software development. Several different options had been discussed in that class that infact I tried out before settling on this path of becoming a software developer, and ultimately chose to major in Software Engineering when I began university.
+I’m a **Software Engineer** with a passion for building scalable, high-performance applications that create meaningful user experiences. With **6+ years of experience** in **full-stack development**, I specialize in **Ruby on Rails**, and I thrive in **remote, collaborative teams**.  
 
-2. During my second year at university, I learned about the Google Summer of Code program, which led me to discover open source software. Since then, I've spent time working with other developers on open source projects and have developed a deep appreciation for the collaborative process.
+## **What Drives Me?**  
 
-3. Unfortunately, I lost my job at one point, which left me feeling lost and afraid.
- In search of answers and a new direction, I embarked on a journey of self-discovery that led me to dig deep and rediscover my true passion: **building software that has a positive impact on the end-user** which has since then become my main focus in life.
- 
- To me, an application is more than just computer software that performs a specific function for an end-user. It's about creating a seamless experience that meets the end user's needs. **My ultimate goal is to design an unparalleled experience in every application I create**, focusing on three key areas: designing user-centric software, promoting its use, and evangelizing its benefits. 
- 
- As a community advocate, I aim to foster and strengthen relationships with users and the wider community by actively seeking feedback, addressing concerns promptly, and providing unwavering support. It's my desire to create compelling content, organize engaging events, and conduct thorough training sessions to educate users and promote the application. As an evangelist, my role is to spread awareness and generate excitement around the application, inspiring and motivating others to try the product and become passionate advocates themselves.
- 
-To achieve this goal, I am seeking like-minded individuals such as software developers, collaborators, entrepreneurs, investors, employers, and people like you who can push me forward on this path. If my message resonates with you, please do not hesitate to send me an <a target="_blank" href="mailto:marvinelly18@gmail.com">email</a> or book a [call](https://calendly.com/nuwe1) with me to discuss how we can work together to create exceptional software experiences. I look forward to hearing from you!
+🔹 **Building Impactful Software** – I believe software should not just function but deliver seamless, intuitive experiences that truly benefit users.  
+🔹 **Scalability & Performance** – I focus on writing efficient, maintainable, and well-tested code that ensures applications run smoothly under any load.  
+🔹 **Continuous Learning & Growth** – Whether it’s contributing to **open-source projects** or working with cross-functional teams, I’m always looking for opportunities to expand my skill set.  
+
+## **What I Bring to a Team**  
+
+✅ **Full-Stack Expertise** – Strong background in **backend development (Ruby on Rails, PostgreSQL, API design)** and frontend development with **Vue.js, Stimulus.js**.  
+✅ **Cloud & DevOps Experience** – Deploying applications on **Heroku, AWS (RDS, S3, CloudFront, CloudWatch)** with **Docker** for development environments.  
+✅ **Open Source Contributions** – Active contributor to **GitLab**, collaborating with developers worldwide.  
+✅ **Remote & International Collaboration** – Worked with **distributed teams** in the past.  
+✅ **Mentorship & Knowledge Sharing** – Passionate about mentoring junior developers and advocating for **best practices in testing, CI/CD, and system design**.  
+
+## **Let’s Connect!**  
+
+I’m always open to connecting with like-minded **developers, entrepreneurs, and collaborators**. If you’re looking for someone who is passionate about building scalable, high-quality applications, let’s chat!  
+
+📩 **Email me:** [mkaregyeya@gmail.com](mailto:mkaregyeya@gmail.com)   
 
 </details>
 
@@ -171,7 +179,6 @@ While I don't blog on a regular basis, you can find some of my writing here:
 
  > You miss 100% of the shots you don't take.
 
-[![buy me a coffee](https://img.shields.io/badge/buymeacoffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/nuwe1)
 
 
 

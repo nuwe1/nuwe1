@@ -1,9 +1,14 @@
 <div align="center" width="50">
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello world" width="70%"/> <br> -->
 <img src="https://media.giphy.com/media/5QRnThZOV6csvKXdmB/giphy.gif" href="https://github.com/nuwe1" alt="Developer"  width="60%"/><br> 
-  
-<p><strong> Full-stack software developer, Active Open-source contributor
-<br>Community builder & Working remotely.
+  <p>
+  <strong>
+    Senior Ruby on Rails Engineer | AI & Data-Driven Systems<br>
+    Full Stack (Ruby, Hotwire, React, Vue)<br>
+    Open Source Contributor | Remote
+  </strong>
+</p>
+
  
 <br><br> Vibing to : 🎧  </strong></p>
  
